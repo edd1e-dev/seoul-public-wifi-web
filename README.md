@@ -9,6 +9,6 @@
 * SAX
 
 데이터베이스는 SQLite를 이용하였으며
-작성된 스키마는 [이 곳](http://www.naver.com)에서 다운로드 하실 수 있습니다.
-다운로드 받은 데이터베이스 파일을 **C:\Users\Public** 폴더에 위치시켜야
+작성된 스키마는 [이 곳](https://www.dropbox.com/s/a8ig0xer83wrl9o/wifi.db?dl=0)에서 다운로드 하실 수 있습니다.<br>
+다운로드 받은 데이터베이스 파일을 <code>C:\Users\Public</code> 폴더에 위치시켜야
 정상적으로 프로그램을 실행할 수 있습니다.
