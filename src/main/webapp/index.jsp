@@ -75,6 +75,8 @@
                     <th>작업일자</th>
                 </thead>
                 <%
+                    final int wifiViewCount = 20;
+
                     if (lat != null && lnt != null && !lat.isEmpty() && !lnt.isEmpty()) {
                         Database database = new Database();
                         database.registerHistory(lat, lnt);
@@ -94,7 +96,7 @@
                             }
                         });
 
-                        for (int i = 0; i < 20; i++) {
+                        for (int i = 0; i < wifiViewCount; i++) {
                             WifiInfo wifiInfo = wifiInfoList.get(i);
                             out.write("<tr id='content'>");
                             out.write("<td>" + wifiInfo.getDistance() + "</td>");
