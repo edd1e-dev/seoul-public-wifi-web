@@ -15,7 +15,8 @@
 
 ## 구현 영상
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/HqnIPox10Qw" title="서울시 공공 와이파이 API를 이용한 주변 와이파이 조회 웹사이트" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/HqnIPox10Qw/0.jpg)](https://youtu.be/HqnIPox10Qw)
+
 ## dbdiagram.io
 
 ### Table
