@@ -13,6 +13,9 @@
 다운로드 받은 데이터베이스 파일을 <code>C:\Users\Public</code> 폴더에 위치시켜야
 정상적으로 프로그램을 실행할 수 있습니다.
 
+## 구현 영상
+
+<iframe width="800" height="600" src="https://www.youtube.com/embed/HqnIPox10Qw" title="서울시 공공 와이파이 API를 이용한 주변 와이파이 조회 웹사이트" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## dbdiagram.io
 
 ### Table
